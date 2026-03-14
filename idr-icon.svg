@@ -1,0 +1,15 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" fill="white"/>
+
+  <!-- Cube top -->
+  <polygon points="60,10 100,30 60,50 20,30" fill="#ff6a00"/>
+
+  <!-- Cube left -->
+  <polygon points="20,30 60,50 60,95 20,75" fill="#111111"/>
+
+  <!-- Cube right -->
+  <polygon points="100,30 60,50 60,95 100,75" fill="#ff6a00"/>
+
+  <!-- Center grid line -->
+  <line x1="60" y1="50" x2="60" y2="95" stroke="white" stroke-width="2"/>
+</svg>
